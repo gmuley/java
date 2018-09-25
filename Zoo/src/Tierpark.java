@@ -1,5 +1,6 @@
 
 public class Tierpark {
+	// Main class
 
 	public static void main(String[] args) {
 		// Main class Tierpark manage subclasses animals
