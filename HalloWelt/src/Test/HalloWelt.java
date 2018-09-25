@@ -3,7 +3,8 @@ package Test;
 public class HalloWelt {
 
 	public static void main(String[] args) {
-		System.out.println("Hallo Welt!");
+		// Display Hello World on screen
+		System.out.println("Hello World!");
 	}
 
 }
